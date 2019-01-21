@@ -28,6 +28,7 @@ Dans ce tuto, je vais essayer de vous expliquer le sens et la provenance de cett
 
 
 
+
 # **Hein,Vector ? Qu’est ce que c’est déjà ? Et comment ça
 marche ?**
 
@@ -63,6 +64,7 @@ Dans les exemples précédents j’ai utilisé des entiers. Mais Vector peut êt
 
 
 
+
 # Constant ? Effectively constant ? Quelle est la différence ?
 
 
@@ -70,6 +72,7 @@ Dans les exemples précédents j’ai utilisé des entiers. Mais Vector peut êt
  Nous avons remarqué dans le tableau que j’ai mis dans l’introduction ainsi que dans la définition d’un Vector la présence d’une expression qui pourrait être inconnue pour certains. Il s’agit de la complexité e.C Effectively Constant dont la traduction littérale en français donne : Effectivement constant.
 
 Comme son nom l’indique, il s’agit d’une complexité assez proche de la classique O(n) (constante) mais les deux termes ne représentent pas la même chose. Néanmoins, nous allons considérer qu’il s’agit de la même complexité pour le moment et j’y retourner dans le paragraphe suivant avec plus de détails.
+
 
 
 
@@ -111,6 +114,7 @@ D’une façon générale, pour tout Vector d’une taille raisonnable, une sél
 
 
 
+
 # Et pour finir, un peu de maths!
 
 
@@ -139,6 +143,7 @@ Pas de magie, simplement quelques connaissances en mathématiques (niveau termin
 Ainsi, nous avons démontré que les opérations de base en Scala sur les Vectors coutent O(log2(n)).
 
 > Easy !
+
 
 
 
