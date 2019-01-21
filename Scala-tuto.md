@@ -29,8 +29,7 @@ Dans ce tuto, je vais essayer de vous expliquer le sens et la provenance de cett
 
 
 
-# **Hein,Vector ? Qu’est ce que c’est déjà ? Et comment ça
-marche ?**
+# **Hein,Vector ? Qu’est ce que c’est déjà ? Et comment ça marche ?**
 
 
 
